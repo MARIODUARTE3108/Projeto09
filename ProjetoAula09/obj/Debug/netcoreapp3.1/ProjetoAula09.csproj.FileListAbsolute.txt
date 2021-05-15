@@ -1,0 +1,42 @@
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.AssemblyInfo.cs
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.exe
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.deps.json
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.runtimeconfig.json
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.runtimeconfig.dev.json
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.pdb
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.csproj.CopyComplete
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.dll
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.pdb
+C:\Users\usuario\Documents\Mário Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.genruntimeconfig.cache
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.exe
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.deps.json
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.runtimeconfig.json
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.runtimeconfig.dev.json
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\ProjetoAula09.pdb
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.AssemblyInfo.cs
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.csproj.CopyComplete
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.dll
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.pdb
+C:\Users\Mário Duarte\Documents\Mario Duarte\CURSO-C#\Aula-09\Projeto\ProjetoAula09\ProjetoAula09\obj\Debug\netcoreapp3.1\ProjetoAula09.genruntimeconfig.cache
